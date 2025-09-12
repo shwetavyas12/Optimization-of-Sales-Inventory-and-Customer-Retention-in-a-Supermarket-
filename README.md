@@ -1,5 +1,6 @@
 # Optimization-of-Sales-Inventory-and-Customer-Retention-in-a-Supermarket-
 **Capstone Project for the Post Graduate Diploma in Data Science, IIT Madras.**
+
 This repository showcases the final analysis and strategic recommendations from a capstone project that transformed one year of a supermarket's operational data into a data-driven roadmap for optimizing performance and enhancing profitability.
 
 # 1. The Strategic Challenge
