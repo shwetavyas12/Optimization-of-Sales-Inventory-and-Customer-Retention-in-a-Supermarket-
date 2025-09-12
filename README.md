@@ -6,7 +6,7 @@ This repository showcases the final analysis and strategic recommendations from 
 # 1. The Strategic Challenge
 Reliance Smart Point faced three core operational challenges that eroded efficiency and constrained growth, despite a stable customer base:
 **Volatile Sales Performance:** Unpredictable revenue streams, particularly during festive seasons, hindered effective financial planning and promotional strategy.
-**Inefficient Inventory Management:** A critical imbalance—frequent stockouts in high-demand categories alongside overstocking of perishables—resulted in significant lost revenue and product spoilage.
+**Inefficient Inventory Management:** A critical imbalance found as frequent stockouts in high-demand categories alongside overstocking of perishables. It resulted in significant lost revenue and product spoilage.
 **Declining Customer Engagement:** A noticeable drop in customer footfall and retention, especially following promotional periods, signaled a weakening of customer loyalty.
 The objective was to dissect these challenges using advanced analytics and deliver an actionable, high-impact strategy.
 
