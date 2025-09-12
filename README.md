@@ -25,16 +25,20 @@ A multi-faceted analytical framework was employed to move from raw data to strat
 # 3. Data-Driven Insights
 The analysis surfaced four critical findings that became the foundation for the strategic recommendations.
 
-**Insight 1:** Standard Forecasts Fail to Capture Festive Demand Surges
+**Insight 1: Standard Forecasts Fail to Capture Festive Demand Surges**
+
 Linear models were incapable of accurately predicting the October sales spike, while the Damped Holt model proved superior in modeling seasonal trends without over-forecasting.
 
-**Insight 2:** High Volatility in Key Categories Creates Significant Stocking Risk
+**Insight 2: High Volatility in Key Categories Creates Significant Stocking Risk**
+
 Fruits and Beverages were identified as high-volatility categories (high CV), making them prone to forecasting errors. This contrasted sharply with the stable, predictable demand for Staples and Dairy.
 
-**Insight 3:** Overstocking Perishables Creates Cost Without Benefit
+**Insight 3: Overstocking Perishables Creates Cost Without Benefit**
+
 The analysis proved that extended holding periods for vegetables had a negligible correlation to sales (r=0.04), confirming that overstocking directly increased spoilage risk with no corresponding revenue benefit.
 
-**Insight 4:** Stockouts in Key Categories Cause Direct Revenue Leakage
+**Insight 4: Stockouts in Key Categories Cause Direct Revenue Leakage**
+
 Consistently failing to meet the 80% stock availability threshold in the Fresh & Frozen Foods category directly correlated with suppressed sales, representing a clear, measurable loss of daily revenue.
 
 # 4. SMART Recommendations & Business Impact
