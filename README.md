@@ -23,7 +23,7 @@ A multi-faceted analytical framework was employed to move from raw data to strat
 | **Inventory Efficiency** | **Days of Holding (DOH) Analysis** for perishables and **Pearson Correlation** to link holding times with sales. | To minimize spoilage and perfect the turnover cycle for fresh produce. |
 | **Stock Availability** | **Service Level Monitoring** against an 80% on-shelf availability benchmark. | To eliminate revenue leakage from stockouts and solidify customer loyalty. |
 
-**Tech Stack:** Python, Pandas, Matplotlib, Seaborn, Statsmodels
+**Tech Stack:** Python, Pandas, Matplotlib, Seaborn, Statsmodels, adjustText
 
 # 3. Data-Driven Insights
 The analysis surfaced four critical findings that became the foundation for the strategic recommendations.
